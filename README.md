@@ -2,7 +2,7 @@
 ![How to Build the Ultimate Sales Process in 6 Steps (2023)](https://i0.wp.com/emailanalytics.com/wp-content/uploads/2020/03/100-Sales-Statistics-to-Help-Boost-Your-Sales-in-2020-1080x675.jpg)
 In this project I have taken the most famous Sales Dataset and tried to do an EDA (Exploratory Data Analysis) to and visualize them.
 
-**P.S. I'll only be using a visualization library called ==Matplotlib== in this workbook to visualize the plots and no other library. Feel free to check my other repositories to explore other different visualization libraries.**
+**P.S. I'll only be using a visualization library called `Matplotlib` in this workbook to visualize the plots and no other library. Feel free to check my other repositories to explore other different visualization libraries.**
 
 ## About Sales Dataset
 ![Communication Networks: How is Information Transmitted? | HEC Paris](https://www.hec.edu/sites/default/files/styles/knowledge_articles_full/public/2018-11/Communication-Networks-How-is-Information-Transmitted_knowledge_standard.jpg?itok=R1KwNk1H)

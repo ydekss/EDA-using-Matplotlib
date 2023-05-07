@@ -6,6 +6,7 @@ In this project I have taken the most famous Sales Dataset and tried to do an ED
 
 ## About Sales Dataset
 ![Communication Networks: How is Information Transmitted? | HEC Paris](https://www.hec.edu/sites/default/files/styles/knowledge_articles_full/public/2018-11/Communication-Networks-How-is-Information-Transmitted_knowledge_standard.jpg?itok=R1KwNk1H)
+
 The data has following features and variables:
 
 -   **Country:** This variable represents the country where the sale occurred. It is a categorical variable, and each observation in the dataset will have a corresponding value for this variable. Depending on the scope of the dataset, the values of this variable may represent countries around the world, regions within a single country, or some other subset of locations.
